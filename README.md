@@ -1,5 +1,6 @@
 ### 欢迎来到HappyDrop674的主页！
-### Markdown
+### 友情链接：
+1.[哔哩哔哩动画](https://www.bilibili.com) 2.[AcFun](https://www.acfun.cn) 3.[Scratch](https://scratch.mit.edu)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
