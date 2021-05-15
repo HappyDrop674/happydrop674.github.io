@@ -1,6 +1,6 @@
-### 欢迎来到HappyDrop674的主页！
+### 均分菌
 ### 友情链接
-1.[哔哩哔哩动画](https://www.bilibili.com) 2.[AcFun](https://www.acfun.cn) 3.[Scratch](https://scratch.mit.edu)
+1.[哔哩哔哩](https://www.bilibili.com) 2.[AcFun](https://www.acfun.cn) 3.[Scratch](https://scratch.mit.edu)
 
 ### 自带教程：如何使用Markdown
 Markdown是一种轻量级并可以轻松上手的文本标记语言。 它包括：
